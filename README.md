@@ -1,14 +1,14 @@
-Inventory Sales Project – Project Description
+#Inventory Sales Project – Project Description
 
-Project Title: Inventory Sales Project
-Tool Used: Microsoft Power BI Desktop
-Domain: Sales & Inventory Analytics
+##Project Title: Inventory Sales Project
+##Tool Used: Microsoft Power BI Desktop
+##Domain: Sales & Inventory Analytics
 
-Project Overview
+##Project Overview
 
 The Inventory Sales Project focuses on analyzing sales performance, inventory movement, customer behavior, and incentive distribution using interactive dashboards. The goal of this project is to convert raw sales and inventory data into meaningful business insights that help management make data-driven decisions related to sales growth, inventory planning, and performance tracking.
 
->>Objectives of the Project
+##Objectives of the Project
 
 Analyze sales performance across cities, regions, salespeople, and customers
 Track inventory movement and identify high-selling and low-selling items
@@ -17,7 +17,7 @@ Identify top-performing and non-performing salespeople
 Understand customer contribution and purchasing behavior
 Support business decisions related to stock management and sales strategy
 
->>Data Preparation & Transformation
+##Data Preparation & Transformation
 
 Imported multiple datasets such as Sales, Customers, Orders, Inventory, Targets, and Incentives
 Cleaned data using Power Query Editor:
@@ -28,7 +28,7 @@ Merged multiple tables to create a unified data model
 Created calculated columns and measures using DAX
 Applied aggregate functions like SUM, AVG, MAX, MIN, COUNT
 
->>Dashboards & Reports Created
+##Dashboards & Reports Created
 
 Salesman–Customer Performance Report
 City-wise Highest Earner Analysis
@@ -41,7 +41,7 @@ Region & Gender Analysis
 Key Influencer Analysis
 Inventory & Order Trend Reports
 
->>Visualizations Used
+##Visualizations Used
 
 Bar Charts & Column Charts
 Line Charts
@@ -53,7 +53,7 @@ Slicers & Button Slicers
 Q&A Visuals
 Key Influencer (AI Visual)
 
->>Key Insights
+##Key Insights
 
 Identified top-performing salespeople and cities
 Highlighted non-performing sales staff needing improvement
@@ -62,13 +62,13 @@ Compared sales targets vs achievements
 Discovered high-value customers and regions
 Helped understand incentive distribution and performance gaps
 
->>Business Impact
+##Business Impact
 
 Improved sales efficiency and incentive planning
 Helped management optimize inventory and stock levels
 Supported better resource allocation and sales strategy
 Enabled quick decision-making through interactive dashboards
 
-Conclusion
+##Conclusion
 
 The Inventory Sales Project demonstrates how Power BI can be effectively used to integrate sales and inventory data, perform advanced analysis, and present insights through interactive dashboards. This project showcases strong skills in data cleaning, data modeling, DAX calculations, and business intelligence reporting, making it highly relevant for Data Analyst / Power BI Developer / Business Analyst roles.
