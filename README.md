@@ -75,5 +75,5 @@ The Inventory Sales Project demonstrates how Power BI can be effectively used to
 
 ## sql quries
 
-"C:\Users\sachi\Videos\Captures\Oracle SQL Developer _ C__Users_sachi_EDUCATION_MANAGEMENT.sql 2026-02-28 16-56-26.mp4"
+
 
