@@ -30,6 +30,7 @@ Applied aggregate functions like SUM, AVG, MAX, MIN, COUNT
 
 ## Dashboards & Reports Created
 
+
 Salesman–Customer Performance Report
 City-wise Highest Earner Analysis
 Sales Incentive & Aggregate Incentive Reports
@@ -73,7 +74,11 @@ Enabled quick decision-making through interactive dashboards
 
 The Inventory Sales Project demonstrates how Power BI can be effectively used to integrate sales and inventory data, perform advanced analysis, and present insights through interactive dashboards. This project showcases strong skills in data cleaning, data modeling, DAX calculations, and business intelligence reporting, making it highly relevant for Data Analyst / Power BI Developer / Business Analyst roles.
 
-## sql quries
+## images of the queries
 
-C:\Users\sachi\Videos\Captures\Oracle SQL Developer _ C__Users_sachi_EDUCATION_MANAGEMENT.sql 2026-02-28 16-56-26.mp4
+<img width="839" height="663" alt="Screenshot 2025-08-16 223845" src="https://github.com/user-attachments/assets/5910d0e6-ac0b-4f51-977c-45a6de98db6e" />
+
+<img width="1907" height="1126" alt="Screenshot 2025-08-17 092242" src="https://github.com/user-attachments/assets/586c7210-4083-437c-a2c7-e1f81c40bbf9" />
+
+<img width="1144" height="800" alt="Screenshot 2025-08-17 092813" src="https://github.com/user-attachments/assets/e96f59a0-b32d-40dd-b2a6-79d623abccfc" />
 
