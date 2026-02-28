@@ -80,5 +80,7 @@ The Inventory Sales Project demonstrates how Power BI can be effectively used to
 
 <img width="1907" height="1126" alt="Screenshot 2025-08-17 092242" src="https://github.com/user-attachments/assets/586c7210-4083-437c-a2c7-e1f81c40bbf9" />
 
+## Creating trigger: to do not delete the primary key of the field
+
 <img width="1144" height="800" alt="Screenshot 2025-08-17 092813" src="https://github.com/user-attachments/assets/e96f59a0-b32d-40dd-b2a6-79d623abccfc" />
 
