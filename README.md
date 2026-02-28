@@ -72,3 +72,8 @@ Enabled quick decision-making through interactive dashboards
 ## Conclusion
 
 The Inventory Sales Project demonstrates how Power BI can be effectively used to integrate sales and inventory data, perform advanced analysis, and present insights through interactive dashboards. This project showcases strong skills in data cleaning, data modeling, DAX calculations, and business intelligence reporting, making it highly relevant for Data Analyst / Power BI Developer / Business Analyst roles.
+
+## sql quries
+
+"C:\Users\sachi\Videos\Captures\Oracle SQL Developer _ C__Users_sachi_EDUCATION_MANAGEMENT.sql 2026-02-28 16-56-26.mp4"
+
